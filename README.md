@@ -1,0 +1,2 @@
+# findomainlambda
+Servless findomain :)
